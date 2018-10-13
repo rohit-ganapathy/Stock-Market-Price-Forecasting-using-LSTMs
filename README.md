@@ -4,9 +4,9 @@ Preprocessing the data involves time-series concepts. I've tried to apply variou
 Tensorboard integrations have been made to visualize loss. 
 
 ## Getting Started
- *run.py -> begins training and then inference post training
- *forecasting_model.py-> class contains the architecture of the model as well as functions for inference, plotting and training.  
- *pipeline.py-> data preprocessing pipeline that reads the data into a dataframe, applies various transformations and creates batches
+ * run.py -> begins training and then inference post training
+ * forecasting_model.py-> class contains the architecture of the model as well as functions for inference, plotting and training.  
+ * pipeline.py-> data preprocessing pipeline that reads the data into a dataframe, applies various transformations and creates batches
 
 ### Dependencies
 
