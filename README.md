@@ -1,5 +1,5 @@
 # Stock market price forecasts using LSTMs
-An lstm based forecasting model that predicts future stock prices after being trained on sequences of prices.
+A recurrent neural network based forecasting model that predicts future stock prices after being trained on sequences of prices.
 Preprocessing the data involves time-series concepts. I've tried to apply various operations (logging, differencing) in order to make the time series stationary before snipping it into sequences and feeding it to the network.
 Tensorboard integrations have been made to visualize loss. 
 
