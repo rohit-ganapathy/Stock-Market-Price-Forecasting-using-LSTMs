@@ -1,2 +1,3 @@
-# Stock-Market---Time-Series---LSTM
+# Stock market forecasts using LSTMs (Tensorflow)
+
 stock market price prediction using LSTMs 
